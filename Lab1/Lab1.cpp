@@ -120,7 +120,7 @@ int main()
         emms
     }
     end = std::chrono::high_resolution_clock::now();
-    std::cout << "\nResult is: " << maxDistance << "\nTime is: " << std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count();;
+    std::cout << "\nResult is: " << maxDistance << "\nTime is: " << std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin).count();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

@@ -1,3 +1,2 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Gavno.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Lab1.cpp
+﻿  Lab1.cpp
   Lab1.vcxproj -> E:\Univer\Паралельні та рощподілені обчислення\Lab1\Debug\Lab1.exe
